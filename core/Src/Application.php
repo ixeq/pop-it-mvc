@@ -4,8 +4,8 @@ namespace Src;
 
 use Error;
 use Illuminate\Container\Container;
-use Illuminate\Events\Dispatcher;
 use Illuminate\Database\Capsule\Manager as Capsule;
+use Illuminate\Events\Dispatcher;
 use Src\Auth\Auth;
 
 class Application
